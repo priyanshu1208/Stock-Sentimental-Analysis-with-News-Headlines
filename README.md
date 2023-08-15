@@ -4,4 +4,4 @@ In this dataset, we have top headlines for specific companies. Based on these he
 Top1, Top2…. these are our news headlines.
 
 
-![download](https://github.com/priyanshu1208/Dengue-Prediction/assets/97425964/00c33302-74e8-4d89-90c6-c4da3746e998)
+![download](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fruthvikraja_mv%2Fstock-price-prediction-using-supervised-learning-392n&psig=AOvVaw3EVcpPe_ETs4BeyCyeft2H&ust=1692180031859000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCSqIC03oADFQAAAAAdAAAAABAE)
